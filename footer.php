@@ -1,0 +1,1 @@
+<div class="footer"><p>ООО "..."</p></div>

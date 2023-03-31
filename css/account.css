@@ -1,0 +1,49 @@
+.account{
+    text-transform: uppercase;
+   position: absolute;
+   left: 20%;
+   margin-top: 3em;
+}
+#exit{
+    margin-left: 50em;
+}
+#exit p{
+    text-decoration: none;
+    
+}
+.account {
+    height: 450px;
+}
+.account p:first-child{
+    color: #5D5A5A;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+.account a{
+    text-decoration: none;
+}
+#myacc{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 400;
+}
+#welcome{
+    text-transform: none;
+    font-size: 14px;
+    font-weight: 400;
+}
+.account-orders{
+    margin-top: 70px;
+    
+}
+.account-orders p{
+    font-size: 14px !important;
+    padding-bottom: 15px;
+    width: 60%;
+    border-bottom: 1px solid #DDDDDD;
+    
+}
+#exit:hover{
+    color: #1C1B1B;
+
+}

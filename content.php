@@ -1,0 +1,1 @@
+<div class="content">тут будет контент...</div>
